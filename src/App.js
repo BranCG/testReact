@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-import component from './component';
+import Component from './Component';
 
 function App() {
   return (
@@ -18,7 +18,7 @@ function App() {
         >
           Learn React
         </a>
-        <component />
+        <Component/>
       </header>
     </div>
   );
